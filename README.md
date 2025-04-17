@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af454d24-a022-44b7-a6cd-a8e50dfd0193)# Ex1--Hello-World---Display-a-Message-Box
+Ex1--Hello-World---Display-a-Message-Box
 ~~~
 Name : W Allen Johnston Ozario
 Reg.No : 21222411004
